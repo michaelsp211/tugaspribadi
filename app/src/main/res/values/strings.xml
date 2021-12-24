@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Android Modul Three</string>
+    <string name="text_view">TextView</string>
+    <string name="submit">Submit</string>
+    <string name="nik">NIK (No. KTP)</string>
+    <string name="nama">Nama</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="temperature">Temperature</string>
+    <string name="keluhan">Keluhan</string>
+    <string name="batuk">Batuk</string>
+    <string name="pilek">Pilek</string>
+    <string name="diare">Diare</string>
+    <string name="_0">0 °C</string>
+    <string name="list">list</string>
+    <string name="android">Android</string>
+    <string name="_123456789">123456789</string>
+    <string name="edit_list">Edit List</string>
+    <string name="delete_list">Delete List</string>
+    <string name="nik_example">124870120</string>
+</resources>
